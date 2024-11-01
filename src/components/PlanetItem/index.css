@@ -1,0 +1,17 @@
+/* Write your CSS here */
+* {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.planet-item-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.image-url {
+  height: 150px;
+  width: 150px;
+}
